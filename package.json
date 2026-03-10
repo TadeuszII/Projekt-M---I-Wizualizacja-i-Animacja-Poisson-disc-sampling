@@ -1,0 +1,27 @@
+{
+  "name": "projekt-m---i-wizualizacja-i-animacja-poisson-disc-sampling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TadeuszII/Projekt-M---I-Wizualizacja-i-Animacja-Poisson-disc-sampling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TadeuszII/Projekt-M---I-Wizualizacja-i-Animacja-Poisson-disc-sampling/issues"
+  },
+  "homepage": "https://github.com/TadeuszII/Projekt-M---I-Wizualizacja-i-Animacja-Poisson-disc-sampling#readme",
+  "dependencies": {
+    "p5": "^2.2.2"
+  },
+  "devDependencies": {
+    "@types/p5": "^1.7.7"
+  }
+}
